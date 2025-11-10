@@ -12,4 +12,3 @@ I'm a **Full-Stack Developer** specializing in building highly performant web ap
 
 ## 🤝 Connect With Me
 - www.linkedin.com/in/sardar-adhan-akram-1616a8353
-- [Twitter/X](https://twitter.com/yourhandle)
