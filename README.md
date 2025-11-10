@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Adhan Akrm!
+# Hi there 👋, I'm Adhan Akram!
 
 ## 💡 About Me
 I'm a **Full-Stack Developer** specializing in building highly performant web applications, primarily with the **MERN stack**. I thrive on optimizing user experience and simplifying complex system architecture. When I'm not coding, I enjoy contributing to open-source and learning about development.
