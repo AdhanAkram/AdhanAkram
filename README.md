@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @AdhanAkram
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there 👋, I'm Adhan Akrm!
 
-<!---
-AdhanAkram/AdhanAkram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💡 About Me
+I'm a **Full-Stack Developer** specializing in building highly performant web applications, primarily with the **MERN stack**. I thrive on optimizing user experience and simplifying complex system architecture. When I'm not coding, I enjoy contributing to open-source and learning about development.
+
+## 🛠️ Tech Stack & Skills
+| Category | Technologies |
+| **Languages** | Python, JavaScript, TypeScript, Go |
+| **Frontend** | React, Next.js, Redux, Tailwind CSS |
+| **Backend** | Node.js (Express), Django, REST APIs |
+| **Database** | PostgreSQL, MongoDB, Redis |
+
+## 🤝 Connect With Me
+- www.linkedin.com/in/sardar-adhan-akram-1616a8353
+- [Twitter/X](https://twitter.com/yourhandle)
